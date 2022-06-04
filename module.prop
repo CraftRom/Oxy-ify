@@ -1,0 +1,7 @@
+id=oxyify
+name=Oxy-ify CORE
+version=v1.0
+versionCode=10
+author=melles1991
+description=Magisk module to add Oxygen OS app to your device
+updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
